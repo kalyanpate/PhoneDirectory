@@ -1,0 +1,38 @@
+button{
+    border-radius: 10px;
+    outline: none;
+    padding: 10px;
+    width: 80px;
+    
+    color: white;
+    font-size: medium;
+    text-transform: uppercase;
+    
+}
+.body{
+    margin: 5%;
+}
+.add-btn{
+    background-color: rgb(124, 250, 124);
+    color: white;
+   font-size: medium;
+   text-transform: uppercase;
+
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: 40% 30% auto;
+    margin-bottom: 10px;
+}
+.heading-container {
+    margin: 30px 0 30px 0;
+    width: 100%;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: large;
+}
+.delete-btn{
+    background-color: rgb(253, 85, 85);
+  
+}
